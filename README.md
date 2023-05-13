@@ -6,4 +6,4 @@ Graduated in physics from *EPFL* (École Polytechnique Fédérale de Lausanne, S
 
 - Machine Learning passionate
 
-- 📫 How to reach me: daniele4cucurachi@gmail.com or daniele.cucurachi@epfl.ch
+- 📫 How to reach me: daniele.cucurachi0@gmail.com or daniele.cucurachi@epfl.ch
