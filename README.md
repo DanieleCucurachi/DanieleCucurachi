@@ -1,6 +1,6 @@
 👋 Hello, I’m @DanieleCucurachi 
 
-- Physics graduate from EPFL (École Polytechnique Fédérale de Lausanne)
+Graduated in physics from *EPFL* (École Polytechnique Fédérale de Lausanne, Switzerland), I am currently working on quantum algorithms in the **Quantum Information Group** at the *University of Cambridge*.
 
 - Quantum Computing enthusiast
 
