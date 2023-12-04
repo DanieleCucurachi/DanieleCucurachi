@@ -10,4 +10,4 @@ Feel free to reach out!
 
 - Machine Learning passionate
 
-- 📫 How to reach me: daniele.cucurachi0@gmail.com or daniele.cucurachi@alumni.epfl.ch
+- 📫 How to reach me: daniele.cucurachi@alumni.epfl.ch or daniele.cucurachi@scientificavp.it
