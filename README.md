@@ -4,6 +4,8 @@ I am a computational physicist, recently graduated from the MSc in Applied Physi
 
 On the side, I collaborate as an AdVenture Partner with **Scientifica VC**, a venture capital firm specializing in deep-tech start-ups. I am responsible for identifying innovative technological projects within universities and research departments, fostering potential investments by Scientifica.
 
+During my internship at **IQM Quantum Computers** I made significant contributions to [KQCircuits](https://github.com/iqm-finland/KQCircuits), an open-source Python library for integrated quantum circuit design. My contributions can be found [here](https://github.com/iqm-finland/KQCircuits/commits?author=danielecucurachiiqm).
+
 Feel free to reach out!
 
 - Quantum Computing enthusiast
