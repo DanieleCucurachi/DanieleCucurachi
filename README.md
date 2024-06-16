@@ -15,4 +15,4 @@ Feel free to reach out!
 
 - [daniele.cucurachi@pasqal.com](mailto:daniele.cucurachi@pasqal.com)
 - [daniele.cucurachi@scientificavp.it](mailto:daniele.cucurachi@scientificavp.it)
-- [daniele.cucurachi@alumni.epfl.ch](daniele.cucurachi@alumni.epfl.ch)
+- [daniele.cucurachi@alumni.epfl.ch](mailto:daniele.cucurachi@alumni.epfl.ch)
